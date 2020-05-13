@@ -1,1 +1,1 @@
-# telegram-bot-ineverdid-game
+Бот для игры "я никогда не"
