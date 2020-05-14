@@ -4,9 +4,10 @@ from random import choice
 from time import time
 from keyboard_markup import *
 import logging
+from config import *
 
 
-bot = telebot.TeleBot('883709881:AAHsY0xwjx6fQH2Yb6a_Zt9VeTbLh4IDBXM')
+bot = telebot.TeleBot(TOKEN)
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s - %(message)s', datefmt='%d-%b-%y %H:%M:%S')
 
