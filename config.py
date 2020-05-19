@@ -1,1 +1,3 @@
-TOKEN = 'secret'
+import os
+
+TOKEN = os.environ['BOT-TOKEN']
