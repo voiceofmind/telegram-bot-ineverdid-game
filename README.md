@@ -1,3 +1,3 @@
-Simple telegram bot for "I have never ever" game
+Simple telegram bot for "Never Have I Ever" game
 
 @NeverHaveIEverGameBot (Russian language)
